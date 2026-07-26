@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/queue-scheduler",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Deterministic promotion and inspection of scheduled queue jobs.",
   "keywords": [
     "javascript",
